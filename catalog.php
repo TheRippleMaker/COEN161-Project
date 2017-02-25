@@ -7,7 +7,7 @@
 
    Students signed up for camp get 15% discount (requires checking for login)
 
-
+test
 
  */
  include 'header.php'
