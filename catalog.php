@@ -53,7 +53,7 @@
      <div class="row">
          <div class="col-md-5">
              <a href="blog-post.html">
-                 <img class="img-responsive img-hover" src="http://placehold.it/600x300" alt="">
+                 <img class="img-responsive img-hover" src="Images/shirtsEDU.png" alt="">
              </a>
          </div>
          <div class="col-md-6">
@@ -70,7 +70,7 @@
      <div class="row">
          <div class="col-md-5">
              <a href="blog-post.html">
-                 <img class="img-responsive img-hover" src="http://placehold.it/600x300" alt="">
+                 <img class="img-responsive img-hover" src="Images/beanieEDU.png" alt="">
              </a>
          </div>
          <div class="col-md-6">
@@ -87,7 +87,7 @@
      <div class="row">
          <div class="col-md-5">
              <a href="blog-post.html">
-                 <img class="img-responsive img-hover" src="http://placehold.it/600x300" alt="">
+                 <img class="img-responsive img-hover" src="Images/hatEDU.png" alt="">
              </a>
          </div>
          <div class="col-md-6">
@@ -104,7 +104,7 @@
      <div class="row">
          <div class="col-md-5">
              <a href="blog-post.html">
-                 <img class="img-responsive img-hover" src="http://placehold.it/600x300" alt="">
+                 <img class="img-responsive img-hover" src="Images/waterbottleEDU.png" alt="">
              </a>
          </div>
          <div class="col-md-6">
@@ -121,7 +121,7 @@
      <div class="row">
          <div class="col-md-5">
              <a href="blog-post.html">
-                 <img class="img-responsive img-hover" src="http://placehold.it/600x300" alt="">
+                 <img class="img-responsive img-hover" src="images/ballEDU.png" alt="">
              </a>
          </div>
          <div class="col-md-6">
@@ -138,15 +138,35 @@
      <div class="row">
          <div class="col-md-5">
              <a href="blog-post.html">
-                 <img class="img-responsive img-hover" src="http://placehold.it/600x300" alt="">
+                 <img class="img-responsive img-hover" src="images/booksEDU.png" alt="">
              </a>
          </div>
          <div class="col-md-6">
-             <h3><a href="blog-post.html">Notebook</a></h3>
+             <h3><a href="blog-post.html">Books</a></h3>
              <p>Lorem ipsum dolor sit amet</p>
              <a class="btn btn-primary" href="blog-post.html">Add to Cart <i class="fa fa-angle-right"></i></a>
          </div>
      </div>
+     
+     <hr>
+     
+     <!-- Blog Post Row -->
+     <div class="row">
+         <div class="col-md-5">
+             <a href="blog-post.html">
+                 <img class="img-responsive img-hover" src="Images/backpackEDU.png" alt="">
+             </a>
+         </div>
+         <div class="col-md-6">
+             <h3><a href="blog-post.html">Backpacks</a></h3>
+             <p>Lorem ipsum dolor sit amet, </p>
+             <a class="btn btn-primary" href="blog-post.html">Add to Cart <i class="fa fa-angle-right"></i></a>
+         </div>
+     </div>
+     <!-- /.row -->
+
+     <hr>
+
     </div>
     <hr>
 
