@@ -36,7 +36,7 @@
      <div class="row">
          <div class="col-md-5">
              <a href="blog-post.html">
-                 <img class="img-responsive img-hover" src="http://placehold.it/600x300" alt="">
+                 <img class="img-responsive img-hover" src="Images/hoodieEDU.png" width=600px; height=300px; alt="">
              </a>
          </div>
          <div class="col-md-6">
