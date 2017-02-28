@@ -154,7 +154,7 @@
      <div class="row">
          <div class="col-md-5">
              <a href="blog-post.html">
-                 <img class="img-responsive img-hover" src="Images/backpackEDU.png" alt="">
+                 <img class="img-responsive img-hover" src="Images/backpackEDU2.png" alt="">
              </a>
          </div>
          <div class="col-md-6">
