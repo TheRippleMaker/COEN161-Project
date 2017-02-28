@@ -41,7 +41,7 @@
          </div>
          <div class="col-md-6">
              <h3><a href="blog-post.html">Hoodie</a></h3>
-             <p>High quality hoodie. Featuring our magical size-adaptible cotton designed by our expert camp leaders. One size fits all. </p>
+             <p>High quality hoodie featuring our magical size-adaptible cotton designed by our expert camp leaders. This hoodie is both comfortable and durable. One size fits all. </p>
              <a class="btn btn-primary" href="blog-post.html">Add to Cart <i class="fa fa-angle-right"></i></a>
          </div>
      </div>
@@ -58,7 +58,7 @@
          </div>
          <div class="col-md-6">
              <h3><a href="blog-post.html">T-shirt</a></h3>
-             <p>High quality T-shirt. Featuring our magical size-adaptible cotton designed by our expert camp leaders. One size fits all.</p>
+             <p>High quality T-shirt featuring our magical size-adaptible cotton designed by our expert camp leaders.This T-shirt is preshrunk and machine washable. One size fits all.</p>
              <a class="btn btn-primary" href="blog-post.html">Add to Cart <i class="fa fa-angle-right"></i></a>
          </div>
      </div>
@@ -75,7 +75,7 @@
          </div>
          <div class="col-md-6">
              <h3><a href="blog-post.html">Beanie</a></h3>
-             <p>Crafted with technologically advanced wool taken from in-house cloned sheep. </p>
+             <p>Acrylic beanie that is both comfortable and machine washable. This beanie is also reversible, allowing two great looks for your camper.  </p>
              <a class="btn btn-primary" href="blog-post.html">Add to Cart <i class="fa fa-angle-right"></i></a>
          </div>
      </div>
@@ -92,7 +92,7 @@
          </div>
          <div class="col-md-6">
              <h3><a href="blog-post.html">Hat</a></h3>
-             <p>Lorem ipsum dolor sit amet</p>
+             <p>Well-fitted hat designed for optimal sun protection for those hot, sunny days at camp.This lightweight hat has quick drying material for enhanced comfort.</p>
              <a class="btn btn-primary" href="blog-post.html">Add to Cart <i class="fa fa-angle-right"></i></a>
          </div>
      </div>
@@ -109,7 +109,7 @@
          </div>
          <div class="col-md-6">
              <h3><a href="blog-post.html">Water Bottle</a></h3>
-             <p>Lorem ipsum dolor sit amet, </p>
+             <p> Non-leaching, toxic-free and BPA-free waterbottle for your healthy camper. Both durable and lightweight, this water bottle is the best option for long days at camp. </p>
              <a class="btn btn-primary" href="blog-post.html">Add to Cart <i class="fa fa-angle-right"></i></a>
          </div>
      </div>
@@ -126,7 +126,7 @@
          </div>
          <div class="col-md-6">
              <h3><a href="blog-post.html">Aerobic Ball</a></h3>
-             <p>Lorem ipsum dolor sit amet,</p>
+             <p>Durable aerobic ball for both fun and exercise. This ball is constructed of strong, anti-burst material that is built to last.</p>
              <a class="btn btn-primary" href="blog-post.html">Add to Cart <i class="fa fa-angle-right"></i></a>
          </div>
      </div>
@@ -143,7 +143,7 @@
          </div>
          <div class="col-md-6">
              <h3><a href="blog-post.html">Books</a></h3>
-             <p>Lorem ipsum dolor sit amet</p>
+             <p>Leather-bound books with high-quality content. Get your camper started out right with the knowledge they need to succeed!</p>
              <a class="btn btn-primary" href="blog-post.html">Add to Cart <i class="fa fa-angle-right"></i></a>
          </div>
      </div>
@@ -159,7 +159,7 @@
          </div>
          <div class="col-md-6">
              <h3><a href="blog-post.html">Backpacks</a></h3>
-             <p>Lorem ipsum dolor sit amet, </p>
+             <p> Backpack made with 100% cotton, designed for easy access and long-lasting durability. This backpack has adjustable straps and haul loops for easy carrying. </p>
              <a class="btn btn-primary" href="blog-post.html">Add to Cart <i class="fa fa-angle-right"></i></a>
          </div>
      </div>
