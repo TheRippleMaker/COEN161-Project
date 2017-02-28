@@ -51,7 +51,7 @@
      <div class="row">
          <div class="col-md-5">
              <a href="blog-post.html">
-                 <img class="img-responsive img-hover" src="http://placehold.it/600x300" alt="">
+                 <img class="img-responsive img-hover" src="Images/webclass.png" alt="">
              </a>
          </div>
          <div class="col-md-6">
@@ -70,7 +70,7 @@
      <div class="row">
          <div class="col-md-5">
              <a href="blog-post.html">
-                 <img class="img-responsive img-hover" src="http://placehold.it/600x300" alt="">
+                 <img class="img-responsive img-hover" src="Images/pythoncoding.png" alt="">
              </a>
          </div>
          <div class="col-md-6">
@@ -89,7 +89,7 @@
      <div class="row">
          <div class="col-md-5">
              <a href="blog-post.html">
-                 <img class="img-responsive img-hover" src="http://placehold.it/600x300" alt="">
+                 <img class="img-responsive img-hover" src="Images/javaEducamp.png" alt="">
              </a>
          </div>
          <div class="col-md-6">
@@ -106,7 +106,7 @@
      <div class="row">
          <div class="col-md-5">
              <a href="blog-post.html">
-                 <img class="img-responsive img-hover" src="http://placehold.it/600x300" alt="">
+                 <img class="img-responsive img-hover" src="Images/physics3Edu.png" alt="">
              </a>
          </div>
          <div class="col-md-6">
@@ -123,7 +123,7 @@
      <div class="row">
          <div class="col-md-5">
              <a href="blog-post.html">
-                 <img class="img-responsive img-hover" src="http://placehold.it/600x300" alt="">
+                 <img class="img-responsive img-hover" src="Images/chemistryEdu.png" alt="">
              </a>
          </div>
          <div class="col-md-6">
@@ -140,7 +140,7 @@
      <div class="row">
          <div class="col-md-5">
              <a href="blog-post.html">
-                 <img class="img-responsive img-hover" src="http://placehold.it/600x300" alt="">
+                 <img class="img-responsive img-hover" src="Images/biology2edu.png" alt="">
              </a>
          </div>
          <div class="col-md-6">
@@ -157,7 +157,7 @@
      <div class="row">
          <div class="col-md-5">
              <a href="blog-post.html">
-                 <img class="img-responsive img-hover" src="http://placehold.it/600x300" alt="">
+                 <img class="img-responsive img-hover" src="Images/geometry2Edu.png" alt="">
              </a>
          </div>
          <div class="col-md-6">
@@ -174,7 +174,7 @@
      <div class="row">
          <div class="col-md-5">
              <a href="blog-post.html">
-                 <img class="img-responsive img-hover" src="http://placehold.it/600x300" alt="">
+                 <img class="img-responsive img-hover" src="Images/algebraEDU2.png" alt="">
              </a>
          </div>
          <div class="col-md-6">
@@ -190,7 +190,7 @@
      <div class="row">
          <div class="col-md-5">
              <a href="blog-post.html">
-                 <img class="img-responsive img-hover" src="http://placehold.it/600x300" alt="">
+                 <img class="img-responsive img-hover" src="Images/calculusEDU.png" alt="">
              </a>
          </div>
          <div class="col-md-6">
@@ -206,7 +206,7 @@
      <div class="row">
          <div class="col-md-5">
              <a href="blog-post.html">
-                 <img class="img-responsive img-hover" src="http://placehold.it/600x300" alt="">
+                 <img class="img-responsive img-hover" src="Images/swimmingEDU.png" alt="">
              </a>
          </div>
          <div class="col-md-6">
@@ -222,7 +222,7 @@
      <div class="row">
          <div class="col-md-5">
              <a href="blog-post.html">
-                 <img class="img-responsive img-hover" src="http://placehold.it/600x300" alt="">
+                 <img class="img-responsive img-hover" src="Images/basketballEDU.png" alt="">
              </a>
          </div>
          <div class="col-md-6">
